@@ -2,7 +2,7 @@
 
 Learn and practice context mapping by trying this quiz alone or with your colleagues.
 
-[Context Mapping Quiz](quiz_sample.jpg)
+![Context Mapping Quiz](quiz_sample.png)
 
 
 ## Instructions
