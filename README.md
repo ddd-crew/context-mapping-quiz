@@ -11,7 +11,7 @@ Learn and practice context mapping by trying this quiz alone or with your collea
 
 1. Open the quiz on this Miro board: https://miro.com/app/board/o9J_lzWf14U=/
 
-2. Copy the contents of the Miro board into a Miro board of your own
+2. Copy the contents of the Miro board into a Miro board of your own (you need to sign up for a free account to copy objects)
 
 3. Review each scenario and:
      - consider the general pros and cons of each pattern
