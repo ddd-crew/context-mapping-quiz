@@ -7,7 +7,7 @@ Learn and practice context mapping by trying this quiz alone or with your collea
 
 ## Instructions
 
-0. Familiarize yoruself with [Context Mapping](https://github.com/ddd-crew/context-mapping)
+0. Familiarize yourself with [Context Mapping](https://github.com/ddd-crew/context-mapping)
 
 1. Open the quiz on this Miro board: https://miro.com/app/board/o9J_lzWf14U=/
 
